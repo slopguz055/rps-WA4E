@@ -78,7 +78,8 @@ if ( $human == -1 ) {
         }
     }
 } else {
-    print "Your Play=$names[$human] Computer Play=$names[$computer] Result=$result\n";
+    print "Your move: <img src=\"./images/".$names[$human].".png\" width=\"300\" height=\"300\" alt=\"".$names[$human]."\"> Computer's move: <img src=\"./images/".$names[$computer].".png\" width=\"300\" height=\"300\" alt=\"".$names[$computer]."\"> \n";
+    print "Result=$result\n";
 }
 ?>
 </pre>

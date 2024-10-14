@@ -5,9 +5,6 @@ Here is a URL to the broken version of this application:
 
 http://www.wa4e.com/code/rps/
 
-Here is a URL to a working version of this application:
+Here is a URL to a working version of this application ( but without my cool images B) ):
 
 http://www.wa4e.com/solutions/rps/
-
-
-
